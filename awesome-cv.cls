@@ -4,9 +4,6 @@
 % This class has been downloaded from:
 % https://github.com/posquit0/Awesome-CV
 %
-% Author:
-% Claud D. Park <posquit0.bj@gmail.com>
-% http://www.posquit0.com
 %
 % Notes:
 % 1) This class file defines the structure and layout of the template file (cv.tex, resume.tex).
@@ -103,7 +100,7 @@
 %-------------------------------------------------------------------------------
 %% Page Layout
 % Configure page margins with geometry
-\geometry{left=2.0cm, top=1.5cm, right=2.0cm, bottom=2.0cm, footskip=.5cm}
+\geometry{left=3cm, top=1.5cm, right=3cm, bottom=2.0cm, footskip=1cm}
 
 %% Header & Footer
 % Set offset to each header and footer
